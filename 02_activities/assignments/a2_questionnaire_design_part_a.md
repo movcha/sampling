@@ -29,6 +29,10 @@ Target Population: Individuals of varying ages, particularly within GTA, who are
 Sampling Frame: A list of residents in GTA, stratified by age groups (under 18, 18-29, 30-39, 40-49, 50-59, 60+).
 Sampling Units: Individual residents within GTA.
 Observational Units: Each individual respondent to the survey.
+
+Stratified sampling strategy should be used. The intention is to ensure that all age groups are represented in the survey, which is crucial for studying how music taste varies with age and increase the accuracy of the results by reducing sampling error within each age stratum.
+Using stratified sampling, we can draw more reliable and generalizable conclusions about the relationship between age and music taste.
+
 ```
 
 Your 5-10 question survey:
