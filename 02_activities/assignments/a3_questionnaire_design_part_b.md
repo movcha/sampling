@@ -4,19 +4,24 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+The quality of the sample is expected to be relatively high, as the stratified sampling strategy ensures representation from all age groups within the GTA. This approach helps in reducing sampling error and ensures that all age groups are adequately represented, which is crucial for studying the relationship between age and music taste. However, the representativeness might be impacted by non-response bias if certain age groups are less likely to respond to the survey. Additionally, the sampling frame being a list of residents in the GTA might exclude transient populations, such as students or temporary workers, potentially affecting the overall representativeness of the target population.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+No major changes were made to the survey questions, as they comprehensively address the research objectives and align with best practices for sampling and survey quality. However, an introduction explaining the survey's purpose, importance, and estimated completion time was added to address ethical considerations and to help improve response rates. Emphasized that participation is voluntary and responses are confidential.
+
+Additionally, a new question (11) was added to quantify the impact of cultural background on music preferences. This helps gather more detailed data about factors influencing music taste. The questions were also reviewed to ensure they are clear and concise, minimizing confusion and potential response errors.
+
+Link to the updated survey: https://github.com/movcha/sampling/blob/questionnaire-b/02_activities/assignments/a2_questionnaire_design_part_a.md
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+The purpose of the survey — to understand the relationship between age and music taste — could not be fully fulfilled through an observational study. An observational study might allow for the observation of music preferences across different age groups in natural settings (e.g., streaming data, concert attendance). However, it would not capture the subjective aspects of music taste, such as personal enjoyment, reasons for preferences, or perceptions of popular music, which are crucial for understanding how and why music taste changes with age. Surveys are essential for collecting this self-reported data directly from individuals, providing insights that observational data alone cannot offer.
     ```
 
 ## Why am I doing this assignment?
@@ -46,9 +51,9 @@ This assignment supports learning outcomes 1, 2, 3, and 4:
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `questionnaire-b`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [X] Create a branch called `questionnaire-b`.
+- [X] Ensure that the repository is public.
+- [X] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [X] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
