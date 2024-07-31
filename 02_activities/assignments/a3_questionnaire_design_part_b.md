@@ -10,18 +10,18 @@
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-No major changes were made to the survey questions, as they comprehensively address the research objectives and align with best practices for sampling and survey quality. However, an introduction explaining the survey's purpose, importance, and estimated completion time was added to address ethical considerations and to help improve response rates. Emphasized that participation is voluntary and responses are confidential.
+	No major changes were made to the survey questions, as they comprehensively address the research objectives and align with best practices for sampling and survey quality. However, an introduction explaining the survey's purpose, importance, and estimated completion time was added to address ethical considerations and to help improve response rates. Emphasized that participation is voluntary and responses are confidential.
 
-Additionally, a new question (11) was added to quantify the impact of cultural background on music preferences. This helps gather more detailed data about factors influencing music taste. The questions were also reviewed to ensure they are clear and concise, minimizing confusion and potential response errors.
+	Additionally, a new question (11) was added to quantify the impact of cultural background on music preferences. This helps gather more detailed data about factors influencing music taste. The questions were also reviewed to ensure they are clear and concise, minimizing confusion and potential response errors.
 
-Link to the updated survey: https://github.com/movcha/sampling/blob/questionnaire-b/02_activities/assignments/a2_questionnaire_design_part_a.md
+	Link to the updated survey: https://github.com/movcha/sampling/blob/questionnaire-b/02_activities/assignments/a2_questionnaire_design_part_a.md
 
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-The purpose of the survey — to understand the relationship between age and music taste — could not be fully fulfilled through an observational study. An observational study might allow for the observation of music preferences across different age groups in natural settings (e.g., streaming data, concert attendance). However, it would not capture the subjective aspects of music taste, such as personal enjoyment, reasons for preferences, or perceptions of popular music, which are crucial for understanding how and why music taste changes with age. Surveys are essential for collecting this self-reported data directly from individuals, providing insights that observational data alone cannot offer.
+	The purpose of the survey — to understand the relationship between age and music taste — could not be fully fulfilled through an observational study. An observational study might allow for the observation of music preferences across different age groups in natural settings (e.g., streaming data, concert attendance). However, it would not capture the subjective aspects of music taste, such as personal enjoyment, reasons for preferences, or perceptions of popular music, which are crucial for understanding how and why music taste changes with age. Surveys are essential for collecting this self-reported data directly from individuals, providing insights that observational data alone cannot offer.
     ```
 
 ## Why am I doing this assignment?
