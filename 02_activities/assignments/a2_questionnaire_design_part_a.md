@@ -16,30 +16,108 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+Understand how age influences music taste, focusing on perceptions of popular music. This information will help identify trends and differences in music preferences across different age groups and over an individual's lifetime.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Individuals of varying ages, particularly within GTA, who are willing to discuss their music preferences.
+Sampling Frame: A list of residents in GTA, stratified by age groups (under 18, 18-29, 30-39, 40-49, 50-59, 60+).
+Sampling Units: Individual residents within GTA.
+Observational Units: Each individual respondent to the survey.
+
+Stratified sampling strategy should be used. The intention is to ensure that all age groups are represented in the survey, which is crucial for studying how music taste varies with age and increase the accuracy of the results by reducing sampling error within each age stratum.
+Using stratified sampling, we can draw more reliable and generalizable conclusions about the relationship between age and music taste.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How old are you?
+
+Under 18
+18-29
+30-39
+40-49
+50-59
+60+
+
+2. What is your gender?
+
+Male
+Female
+Non-binary
+Prefer not to say
+
+3. How often do you listen to music?
+
+Daily
+Several times a week
+Once a week
+Less than once a week
+Rarely
+
+4. What genre(s) of music do you primarily listen to? (Select all that apply)
+
+Pop
+Rock
+Hip-hop/Rap
+Classical
+Jazz
+Country
+Electronic/Dance
+Other (please specify)
+
+5. How has your music taste changed over the past 10 years?
+
+It has become more diverse
+It has stayed about the same
+It has become more focused on specific genres
+Other (please specify)
+
+6. How much do you enjoy listening to popular music from your current age group?
+
+Very much
+Somewhat
+Neutral
+Not much
+Not at all
+
+7. How do you discover new music? (Select all that apply)
+
+Radio
+Streaming services (Spotify, Apple Music, etc.)
+Social media
+Friends or family recommendations
+Live events (concerts, festivals)
+Other (please specify)
+
+8. Do you feel your music taste aligns with your age group?
+
+Strongly agree
+Agree
+Neutral
+Disagree
+Strongly disagree
+
+9.How important is it to you to keep up with current popular music trends?
+
+Very important
+Somewhat important
+Neutral
+Not very important
+Not important at all
+
+10. Would you say your music taste has been influenced more by your age or by other factors (e.g., cultural background, social circles)?
+
+Mostly by age
+Mostly by other factors
+A combination of both
+Not sure
 ```
 
 ## Rubric
@@ -60,9 +138,9 @@ Your 5-10 question survey:
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `questionnaire-a`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [X] Create a branch called `questionnaire-a`.
+- [X] Ensure that the repository is public.
+- [X] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [X] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
