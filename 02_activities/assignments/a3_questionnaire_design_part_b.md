@@ -3,7 +3,8 @@
 ## Requirements
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
-    ```The quality of the sample is expected to be relatively high, as the stratified sampling strategy ensures representation from all age groups within the GTA. This approach helps in reducing sampling error and ensures that all age groups are adequately represented, which is crucial for studying the relationship between age and music taste. However, the representativeness might be impacted by non-response bias if certain age groups are less likely to respond to the survey. Additionally, the sampling frame being a list of residents in the GTA might exclude transient populations, such as students or temporary workers, potentially affecting the overall representativeness of the target population.
+    ```
+    The quality of the sample is expected to be relatively high, as the stratified sampling strategy ensures representation from all age groups within the GTA. This approach helps in reducing sampling error and ensures that all age groups are adequately represented, which is crucial for studying the relationship between age and music taste. However, the representativeness might be impacted by non-response bias if certain age groups are less likely to respond to the survey. Additionally, the sampling frame being a list of residents in the GTA might exclude transient populations, such as students or temporary workers, potentially affecting the overall representativeness of the target population.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
