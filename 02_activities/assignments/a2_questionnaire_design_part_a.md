@@ -37,6 +37,9 @@ Using stratified sampling, we can draw more reliable and generalizable conclusio
 
 Your 5-10 question survey:
 ```
+Introduction: 
+We are conducting a research study to understand how age influences music taste, focusing on perceptions of popular music. Your participation is voluntary, and your responses will be kept confidential. The survey should take about 10 minutes to complete. Thank you for your participation!
+
 1. How old are you?
 
 Under 18
@@ -104,7 +107,7 @@ Neutral
 Disagree
 Strongly disagree
 
-9.How important is it to you to keep up with current popular music trends?
+9. How important is it to you to keep up with current popular music trends?
 
 Very important
 Somewhat important
@@ -118,6 +121,10 @@ Mostly by age
 Mostly by other factors
 A combination of both
 Not sure
+
+11. On a scale of 1 to 10, how would you rate the overall impact of your cultural background on your music preferences?
+
+1 (No impact) to 10 (Very high impact)
 ```
 
 ## Rubric
